@@ -1,6 +1,8 @@
 from django.urls import path, include
+from .views import *
+
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('ajax_app/', include('ajax_app.urls'))
+    path('signup/', SignUpView.as_view(), name='signup'),
+    path('ajax/validate_username/', validate_username, name='validate-username'),
 ]
