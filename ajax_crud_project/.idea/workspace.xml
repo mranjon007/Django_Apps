@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41331e28-8ab4-48db-b352-3aeffeb041f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ajax_app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajax_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax_app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax_app/static/ajax_app/books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax_app/templates/ajax_app/partial_book_create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax_app/templates/ajax_app/book_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax_app/templates/ajax_app/book_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax_app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ajax_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ajax_app/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ajax_django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ajax_django/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -32,6 +39,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="ajax_crud_project" type="Python.DjangoServer" factoryName="Django server">
@@ -80,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576412540180</updated>
-      <workItem from="1576412549590" duration="2893000" />
+      <workItem from="1576412549590" duration="6826000" />
+      <workItem from="1576592784784" duration="3660000" />
     </task>
     <servers />
   </component>
